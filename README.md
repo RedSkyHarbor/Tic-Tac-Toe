@@ -8,4 +8,4 @@ This runs the app in development mode.<br>
 To view the game, open [http://localhost:3000](http://localhost:3000) in your web browser.
 
 
-This project was made while following the React tutorial at [https://reactjs.org/tutorial/tutorial.html](this link)
+This project was made while following the React tutorial at this [https://reactjs.org/tutorial/tutorial.html](link)
