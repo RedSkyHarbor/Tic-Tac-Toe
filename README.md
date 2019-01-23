@@ -6,6 +6,3 @@ First, traverse to the porject directory, then you may run
 
 This runs the app in development mode.<br>
 To view the game, open [http://localhost:3000](http://localhost:3000) in your web browser.
-
-
-This project was made while following the React tutorial at [this link](https://reactjs.org/tutorial/tutorial.html)
